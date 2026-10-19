@@ -1,0 +1,9 @@
+pymupdf
+sentence-transformers
+transformers
+torch
+accelerate
+numpy
+matplotlib
+pandas
+nbformat

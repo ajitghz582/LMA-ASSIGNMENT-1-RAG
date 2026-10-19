@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Model weights (large, downloaded automatically on first run)
+models/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment / secrets
+.env
+
+# Working scripts (not part of submission)
+patch_*.py
+fix_*.py
+build_notebook.py
+candidate_search.py
+check_queries.py
+generate_fc2*.py
+rescue_candidates.csv
